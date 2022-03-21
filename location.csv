@@ -1,0 +1,288 @@
+,Quan_bin,Phuong_bin,f_Area,f_Rank_phuong,f_Rank_quan
+0,Huyen Hoc Mon,Xa Tan Hiep,A2,3.0,2.0
+1,Quan 6,Phuong 11,A3,8.0,7.0
+2,Quan Go Vap,Phuong 1,A2,6.0,5.0
+3,Huyen Nha Be,Xa Phu Xuan,A3,4.0,3.0
+4,Quan 11,Phuong 16,A3,9.0,8.0
+5,Quan 2,Phuong An Phu,A3,9.0,5.0
+6,Quan 1,Phuong Tan Dinh,A4,14.0,12.0
+7,Quan 8,Phuong 14,A2,5.0,5.0
+8,Quan 7,Phuong Tan Phu,A2,6.0,5.0
+9,Quan Thu Duc,Phuong Linh Trung,A3,5.0,4.0
+10,Quan Go Vap,Phuong 5,A3,7.0,5.0
+11,Quan 3,Phuong 5,A5,14.0,10.0
+12,Quan Binh Thanh,Phuong 25,A3,9.0,7.0
+13,Quan 7,Phuong Tan Thuan Dong,A2,6.0,5.0
+14,Quan Tan Binh,Phuong 15,A1,7.0,7.0
+15,Quan Phu Nhuan,Phuong 9,A2,10.0,8.0
+16,Quan 2,Phuong Cat Lai,A1,5.0,5.0
+17,Quan 8,Phuong 16,A2,5.0,5.0
+18,Quan 9,Phuong Long Truong,A2,4.0,4.0
+19,Quan Binh Thanh,Phuong 5,A3,9.0,7.0
+20,Quan Binh Thanh,Phuong 17,A2,8.0,7.0
+21,Quan 10,Phuong 10,A4,12.0,10.0
+22,Quan 6,Phuong 9,A3,8.0,7.0
+23,Quan 3,Phuong 10,A3,12.0,10.0
+24,Quan Binh Tan,Phuong Binh Tri Dong,A2,5.0,4.0
+25,Quan Tan Binh,Phuong 13,A2,8.0,7.0
+26,Quan Phu Nhuan,Phuong 13,A1,9.0,8.0
+27,Quan 10,Phuong 15,A3,11.0,10.0
+28,Quan 12,Phuong Thoi An,A2,5.0,3.0
+29,Quan Binh Thanh,Phuong 2,A2,8.0,7.0
+30,Quan Thu Duc,Phuong Linh Xuan,A2,4.0,4.0
+31,Quan Go Vap,Phuong 11,A2,6.0,5.0
+32,Quan 8,Phuong 11,A4,7.0,5.0
+33,Quan Tan Binh,Phuong 6,A3,9.0,7.0
+34,Quan 3,Phuong 13,A3,12.0,10.0
+35,Quan 8,Phuong 15,A2,5.0,5.0
+36,Quan 6,Phuong 10,A3,8.0,7.0
+37,Quan 9,Phuong Tang Nhon Phu B,A3,5.0,4.0
+38,Quan 12,Phuong Tan Hung Thuan,A1,4.0,3.0
+39,Quan Go Vap,Phuong 3,A3,7.0,5.0
+40,Quan Go Vap,Phuong 10,A2,6.0,5.0
+41,Quan Thu Duc,Phuong Binh Tho,A5,7.0,4.0
+42,Quan Phu Nhuan,Phuong 1,A2,10.0,8.0
+43,Quan 5,Phuong 7,A7,17.0,10.0
+44,Quan Tan Phu,Phuong Son Ky,A1,6.0,6.0
+45,Quan Tan Binh,Phuong 4,A5,11.0,7.0
+46,Quan Binh Tan,Phuong An Lac,A2,5.0,4.0
+47,Quan 1,Phuong Da Kao,A5,19.0,12.0
+48,Quan 12,Phuong An Phu Dong,A1,4.0,3.0
+49,Quan Binh Thanh,Phuong 19,A4,10.0,7.0
+50,Huyen Hoc Mon,Xa Nhi Binh,A1,2.0,2.0
+51,Quan 8,Phuong 3,A4,7.0,5.0
+52,Quan Tan Phu,Phuong Hoa Thanh,A5,11.0,6.0
+53,Quan 3,Phuong 11,A1,10.0,10.0
+54,Quan 8,Phuong 7,A1,4.0,5.0
+55,Quan 6,Phuong 1,A2,7.0,7.0
+56,Quan Go Vap,Phuong 13,A1,5.0,5.0
+57,Quan 7,Phuong Tan Hung,A2,6.0,5.0
+58,Huyen Binh Chanh,Xa Binh Chanh,A1,2.0,3.0
+59,Quan 1,Phuong Cau Kho,A2,12.0,12.0
+60,Quan 5,Phuong 6,A2,9.0,10.0
+61,Quan Go Vap,Phuong 14,A2,6.0,5.0
+62,Quan Binh Tan,Phuong Binh Hung Hoa B,A1,4.0,4.0
+63,Quan 5,Phuong 9,A3,10.0,10.0
+64,Quan 6,Phuong 4,A3,8.0,7.0
+65,Quan 8,Phuong 1,A4,7.0,5.0
+66,Quan 10,Phuong 2,A3,11.0,10.0
+67,Quan 2,Phuong Binh Trung Dong,A1,5.0,5.0
+68,Quan Thu Duc,Phuong Tam Phu,A2,4.0,4.0
+69,Quan 5,Phuong 12,A6,14.0,10.0
+70,Huyen Binh Chanh,Xa Tan Kien,A2,3.0,3.0
+71,Quan 3,Phuong 6,A8,18.0,10.0
+72,Quan 10,Phuong 12,A5,13.0,10.0
+73,Quan Go Vap,Phuong 9,A2,6.0,5.0
+74,Quan 8,Phuong 6,A2,5.0,5.0
+75,Quan Thu Duc,Phuong Linh Tay,A3,5.0,4.0
+76,Quan 5,Phuong 10,A1,7.0,10.0
+77,Quan Thu Duc,Phuong Binh Chieu,A1,3.0,4.0
+78,Quan 5,Phuong 4,A4,12.0,10.0
+79,Quan 7,Phuong Phu Thuan,A1,5.0,5.0
+80,Quan 4,Phuong 16,A2,6.0,6.0
+81,Quan 3,Phuong 14,A3,12.0,10.0
+82,Quan 2,Phuong Binh Trung Tay,A2,6.0,5.0
+83,Huyen Hoc Mon,Xa Tan Xuan,A2,3.0,2.0
+84,Quan Binh Thanh,Phuong 14,A3,9.0,7.0
+85,Quan 1,Phuong Ben Nghe,A6,25.0,12.0
+86,Quan 10,Phuong 6,A6,14.0,10.0
+87,Quan 6,Phuong 14,A2,7.0,7.0
+88,Quan 7,Phuong Tan Thuan Tay,A2,6.0,5.0
+89,Quan 4,Phuong 2,A1,5.0,6.0
+90,Quan 8,Phuong 4,A3,6.0,5.0
+91,Quan 5,Phuong 5,A5,13.0,10.0
+92,Quan Thu Duc,Phuong Hiep Binh Phuoc,A3,5.0,4.0
+93,Quan 7,Phuong Phu My,A2,6.0,5.0
+94,Quan Binh Tan,Phuong Binh Hung Hoa,A2,5.0,4.0
+95,Quan 6,Phuong 8,A1,6.0,7.0
+96,Quan 12,Phuong Thanh Loc,A1,4.0,3.0
+97,Quan 10,Phuong 4,A3,11.0,10.0
+98,Quan 9,Phuong Phu Huu,A3,5.0,4.0
+99,Quan Phu Nhuan,Phuong 4,A2,10.0,8.0
+100,Quan Binh Thanh,Phuong 15,A2,8.0,7.0
+101,Quan 9,Phuong Phuoc Long B,A3,5.0,4.0
+102,Quan 12,Phuong Thanh Xuan,A1,4.0,3.0
+103,Quan 1,Phuong Ben Thanh,A5,19.0,12.0
+104,Huyen Nha Be,Xa Phuoc Kien,A3,4.0,3.0
+105,Huyen Nha Be,Xa Nhon Duc,A2,3.0,3.0
+106,Quan 11,Phuong 9,A7,14.0,8.0
+107,Huyen Binh Chanh,Xa An Phu Tay,A1,2.0,3.0
+108,Quan Binh Thanh,Phuong 24,A3,9.0,7.0
+109,Quan Phu Nhuan,Phuong 11,A2,10.0,8.0
+110,Huyen Hoc Mon,Xa Dong Thanh,A2,3.0,2.0
+111,Huyen Hoc Mon,Xa Ba Diem,A2,3.0,2.0
+112,Quan Binh Thanh,Phuong 1,A3,9.0,7.0
+113,Quan Phu Nhuan,Phuong 17,A2,10.0,8.0
+114,Quan Phu Nhuan,Phuong 3,A2,10.0,8.0
+115,Quan 6,Phuong 12,A3,8.0,7.0
+116,Quan Thu Duc,Phuong Linh Chieu,A3,5.0,4.0
+117,Quan Binh Thanh,Phuong 12,A1,7.0,7.0
+118,Quan Tan Binh,Phuong 12,A4,10.0,7.0
+119,Quan Binh Thanh,Phuong 7,A2,8.0,7.0
+120,Huyen Nha Be,Thi tran Nha Be,A4,5.0,3.0
+121,Quan 7,Phuong Tan Phong,A4,8.0,5.0
+122,Quan 12,Phuong Tan Thoi Nhat,A2,5.0,3.0
+123,Quan Tan Binh,Phuong 5,A2,8.0,7.0
+124,Quan Binh Thanh,Phuong 11,A2,8.0,7.0
+125,Quan Phu Nhuan,Phuong 7,A1,9.0,8.0
+126,Quan Thu Duc,Phuong Hiep Binh Chanh,A3,5.0,4.0
+127,Quan Binh Tan,Phuong Tan Tao,A2,5.0,4.0
+128,Quan 10,Phuong 13,A3,11.0,10.0
+129,Quan Go Vap,Phuong 12,A2,6.0,5.0
+130,Quan 3,Phuong 8,A2,11.0,10.0
+131,Quan 12,Phuong Hiep Thanh,A1,4.0,3.0
+132,Quan 10,Phuong 1,A5,13.0,10.0
+133,Quan Go Vap,Phuong 8,A2,6.0,5.0
+134,Quan 8,Phuong 10,A4,7.0,5.0
+135,Quan 11,Phuong 4,A6,12.0,8.0
+136,Quan Binh Tan,Phuong Binh Tri Dong A,A3,6.0,4.0
+137,Quan Tan Binh,Phuong 11,A2,8.0,7.0
+138,Quan 5,Phuong 11,A7,17.0,10.0
+139,Quan 6,Phuong 3,A1,6.0,7.0
+140,Quan Tan Binh,Phuong 9,A3,9.0,7.0
+141,Quan 4,Phuong 3,A3,7.0,6.0
+142,Quan Phu Nhuan,Phuong 8,A3,11.0,8.0
+143,Quan 4,Phuong 4,A6,10.0,6.0
+144,Quan 1,Phuong Pham Ngu Lao,A3,13.0,12.0
+145,Quan Tan Binh,Phuong 14,A3,9.0,7.0
+146,Quan 11,Phuong 1,A1,7.0,8.0
+147,Quan 3,Phuong 3,A4,13.0,10.0
+148,Quan Binh Tan,Phuong Binh Tri Dong B,A3,6.0,4.0
+149,Quan Tan Phu,Phuong Phu Tho Hoa,A2,7.0,6.0
+150,Quan 7,Phuong Tan Kieng,A2,6.0,5.0
+151,Huyen Binh Chanh,Xa Pham Van Hai,A1,2.0,3.0
+152,Quan Thu Duc,Phuong Linh Dong,A3,5.0,4.0
+153,Quan 2,Phuong Thao Dien,A5,11.0,5.0
+154,Quan 4,Phuong 15,A2,6.0,6.0
+155,Huyen Binh Chanh,Xa Binh Hung,A4,5.0,3.0
+156,Quan Binh Thanh,Phuong 3,A3,9.0,7.0
+157,Huyen Hoc Mon,Xa Trung Chanh,A3,4.0,2.0
+158,Quan 4,Phuong 8,A4,8.0,6.0
+159,Quan Thu Duc,Phuong Truong Tho,A4,6.0,4.0
+160,Quan 12,Phuong Tan Chanh Hiep,A1,4.0,3.0
+161,Huyen Nha Be,Xa Hiep Phuoc,A1,2.0,3.0
+162,Quan 6,Phuong 13,A3,8.0,7.0
+163,Quan 5,Phuong 8,A9,20.0,10.0
+164,Quan 5,Phuong 2,A4,12.0,10.0
+165,Quan 8,Phuong 9,A4,7.0,5.0
+166,Quan 8,Phuong 2,A5,8.0,5.0
+167,Quan 10,Phuong 14,A3,11.0,10.0
+168,Quan 8,Phuong 5,A4,7.0,5.0
+169,Quan Binh Thanh,Phuong 21,A2,8.0,7.0
+170,Quan 2,Phuong Thanh My Loi,A1,5.0,5.0
+171,Quan Tan Phu,Phuong Hiep Tan,A2,7.0,6.0
+172,Quan 9,Phuong Phuoc Long A,A3,5.0,4.0
+173,Quan 11,Phuong 5,A4,10.0,8.0
+174,Quan Phu Nhuan,Phuong 14,A4,12.0,8.0
+175,Quan 3,Phuong 1,A7,17.0,10.0
+176,Quan 11,Phuong 8,A5,11.0,8.0
+177,Quan 1,Phuong Co Giang,A3,13.0,12.0
+178,Quan Tan Binh,Phuong 3,A1,7.0,7.0
+179,Huyen Hoc Mon,Xa Tan Thoi Nhi,A2,3.0,2.0
+180,Quan Binh Tan,Phuong Binh Hung Hoa A,A2,5.0,4.0
+181,Quan 12,Phuong Tan Thoi Hiep,A2,5.0,3.0
+182,Quan 11,Phuong 2,A6,12.0,8.0
+183,Quan 10,Phuong 9,A5,13.0,10.0
+184,Quan Phu Nhuan,Phuong 2,A4,12.0,8.0
+185,Quan 4,Phuong 9,A5,9.0,6.0
+186,Quan Binh Thanh,Phuong 6,A1,7.0,7.0
+187,Quan Tan Phu,Phuong Phu Trung,A2,7.0,6.0
+188,Quan 3,Phuong 4,A5,14.0,10.0
+189,Huyen Binh Chanh,Xa Phong Phu,A3,4.0,3.0
+190,Quan 4,Phuong 10,A3,7.0,6.0
+191,Quan Phu Nhuan,Phuong 15,A3,11.0,8.0
+192,Quan Go Vap,Phuong 7,A3,7.0,5.0
+193,Quan 11,Phuong 12,A8,15.0,8.0
+194,Quan 5,Phuong 3,A2,9.0,10.0
+195,Quan Go Vap,Phuong 16,A2,6.0,5.0
+196,Quan Binh Thanh,Phuong 22,A1,7.0,7.0
+197,Quan 7,Phuong Tan Quy,A5,9.0,5.0
+198,Quan Tan Binh,Phuong 10,A1,7.0,7.0
+199,Quan 4,Phuong 14,A3,7.0,6.0
+200,Quan Phu Nhuan,Phuong 10,A4,12.0,8.0
+201,Quan 2,Phuong Binh An,A4,10.0,5.0
+202,Quan Tan Phu,Phuong Tan Thoi Hoa,A1,6.0,6.0
+203,Quan 7,Phuong Binh Thuan,A3,7.0,5.0
+204,Quan 9,Phuong Long Binh,A2,4.0,4.0
+205,Quan Go Vap,Phuong 4,A3,7.0,5.0
+206,Quan 11,Phuong 3,A3,9.0,8.0
+207,Quan Binh Thanh,Phuong 26,A2,8.0,7.0
+208,Quan Go Vap,Phuong 17,A2,6.0,5.0
+209,Quan Tan Binh,Phuong 7,A2,8.0,7.0
+210,Quan Phu Nhuan,Phuong 5,A1,9.0,8.0
+211,Quan Tan Binh,Phuong 1,A6,12.0,7.0
+212,Quan 4,Phuong 13,A3,7.0,6.0
+213,Quan 10,Phuong 5,A7,15.0,10.0
+214,Quan 4,Phuong 5,A5,9.0,6.0
+215,Quan 11,Phuong 15,A4,10.0,8.0
+216,Quan Phu Nhuan,Phuong12,A4,12.0,8.0
+217,Quan Tan Phu,Phuong Tan Quy,A2,7.0,6.0
+218,Quan 10,Phuong 7,A2,10.0,10.0
+219,Quan Binh Thanh,Phuong 13,A2,8.0,7.0
+220,Quan Go Vap,Phuong 15,A2,6.0,5.0
+221,Quan Tan Phu,Phuong Tan Son Nhi,A3,8.0,6.0
+222,Quan Binh Tan,Phuong An Lac A,A3,6.0,4.0
+223,Quan Tan Binh,Phuong 8,A2,8.0,7.0
+224,Quan 10,Phuong 11,A5,13.0,10.0
+225,Quan 3,Phuong 9,A1,10.0,10.0
+226,Quan 6,Phuong 2,A6,14.0,7.0
+227,Quan 11,Phuong 11,A3,9.0,8.0
+228,Quan 10,Phuong 8,A6,14.0,10.0
+229,Quan 4,Phuong 18,A2,6.0,6.0
+230,Huyen Binh Chanh,Xa Quy Duc,A1,2.0,3.0
+231,Quan Binh Tan,Phuong Tan Tao A,A1,4.0,4.0
+232,Quan 9,Phuong Long Thanh My,A3,5.0,4.0
+233,Quan 5,Phuong 14,A8,18.0,10.0
+234,Quan 12,Phuong Trung My Tay,A1,4.0,3.0
+235,Quan Tan Phu,Phuong Tay Thanh,A1,6.0,6.0
+236,Quan 1,Phuong Nguyen Thai Binh,A1,10.0,12.0
+237,Quan Thu Duc,Phuong Tam Binh,A2,4.0,4.0
+238,Quan 11,Phuong 14,A2,8.0,8.0
+239,Quan 4,Phuong 6,A3,7.0,6.0
+240,Huyen Nha Be,Xa Phuoc Loc,A2,3.0,3.0
+241,Quan Tan Phu,Phuong Phu Thanh,A2,7.0,6.0
+242,Huyen Binh Chanh,Xa Vinh Loc B,A4,5.0,3.0
+243,Quan Go Vap,Phuong 6,A3,7.0,5.0
+244,Huyen Hoc Mon,Xa Hoc Mon,A3,4.0,2.0
+245,Quan Tan Binh,Phuong 2,A5,11.0,7.0
+246,Quan 9,Phuong Hiep Phu,A5,7.0,4.0
+247,Quan 5,Phuong 1,A5,13.0,10.0
+248,Quan 9,Phuong Tang Nhon Phu A,A3,5.0,4.0
+249,Quan 1,Phuong Nguyen Cu Trinh,A2,12.0,12.0
+250,Huyen Binh Chanh,Xa Tan Tuc,A2,3.0,3.0
+251,Quan 6,Phuong 7,A3,8.0,7.0
+252,Huyen Hoc Mon,Xa Xuan Thoi Dong,A2,3.0,2.0
+253,Quan 8,Phuong 12,A3,6.0,5.0
+254,Huyen Hoc Mon,Xa Xuan Thoi Thuong,A2,3.0,2.0
+255,Quan 10,Phuong 3,A1,9.0,10.0
+256,Quan 3,Phuong 2,A6,15.0,10.0
+257,Quan Tan Phu,Phuong Tan Thanh,A4,9.0,6.0
+258,Quan 12,Phuong Dong Hung Thuan,A1,4.0,3.0
+259,Quan 9,Phuong Phuoc Binh,A3,5.0,4.0
+260,Quan 9,Phuong Tan Phu,A4,6.0,4.0
+261,Quan 3,Phuong 7,A3,12.0,10.0
+262,Quan 6,Phuong 5,A5,11.0,7.0
+263,Quan 1,Phuong Cau Ong Lanh,A5,19.0,12.0
+264,Quan Binh Thanh,Phuong 27,A1,7.0,7.0
+265,Quan 9,Phuong Truong Thanh,A1,2.0,4.0
+266,Quan 8,Phuong 13,A4,7.0,5.0
+267,Quan 4,Phuong 1,A7,12.0,6.0
+268,Huyen Hoc Mon,Xa Xuan Thoi Son,A2,3.0,2.0
+269,Huyen Binh Chanh,Xa Tan Quy Tay,A1,2.0,3.0
+270,Quan 3,Phuong 12,A2,11.0,10.0
+271,Huyen Binh Chanh,Xa Da Phuoc,A1,2.0,3.0
+272,Quan 11,Phuong 6,A5,11.0,8.0
+273,Huyen Nha Be,Xa Long Thoi,A2,3.0,3.0
+274,Quan 8,Phuong 8,A4,7.0,5.0
+275,Huyen Hoc Mon,Xa Thoi Tam Thon,A1,2.0,2.0
+276,Quan 11,Phuong 10,A3,9.0,8.0
+277,Huyen Binh Chanh,Xa Vinh Loc A,A2,3.0,3.0
+278,Quan 6,Phuong 6,A4,9.0,7.0
+279,Quan 9,Phuong Long Phuoc,A2,4.0,4.0
+280,Huyen Binh Chanh,Xa Le Minh Xuan,A1,2.0,3.0
+281,Quan 4,Phuong 12,A4,8.0,6.0
+282,Quan 11,Phuong 13,A2,8.0,8.0
+283,Quan 5,Phuong 13,A1,7.0,10.0
+284,Quan 5,Phuong 15,A4,12.0,10.0
+285,Huyen Binh Chanh,Xa Hung Long,A1,2.0,3.0
+286,Quan 11,Phuong 7,A6,12.0,8.0
